@@ -1,4 +1,4 @@
-# Nextjs Events-App
+# Converse App
 
 ## Live Demo
 
